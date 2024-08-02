@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.more-name:hover {
+    opacity: 1 !important;
+    transition: 0.2s linear;
+}
+
+.navbar-name:hover {
+    font-weight: bold;
+}
